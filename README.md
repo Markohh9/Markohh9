@@ -6,13 +6,13 @@
 
 - Je travaille actuellement sur la suite de mon parcours après [Ma Formation BAC+2 DEV WEB](https://openclassrooms.com/fr/paths/717-developpeur-web)
 
-- 🌱 Actuellement, j'apprends **Le NextJS**
+- 🌱 Actuellement, j'apprends **LUE5 / C++ et également je réalise toujours mes projets de développeur web (NextJS - Tailwind**
 
-- 💬 Pose moi des questions a propos de **HTML, CSS, JAVASCRIPT, React, LA LICENSE ADOBE**
+- 💬 Pose moi des questions a propos de **Ce que tu veux !**
 
 - 📫 Comment me contacter? **Par mail avec cette adresse: Marco.m2011@hotmail.fr**
 
-- ⚡ Je suis également passionné de musique **Réalisation de musique sur FL STUDIO et pratique depuis 4 ans la guitare!**
+- ⚡ Je suis également passionné de musique **Réalisation de musique sur FL STUDIO et pratique depuis 7 ans la guitare !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
